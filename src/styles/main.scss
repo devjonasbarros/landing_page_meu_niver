@@ -19,6 +19,7 @@
     font-size: 20px;
     background-color: rgb(183, 211, 211);
     color: blue;
+    margin-bottom: 30px;
 }
 
 img{
@@ -26,6 +27,24 @@ img{
     height: 400px;
     width: 960px;
 }
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: red;
+    margin-bottom: 30px;
+
+}
+
+a:hover{
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+    background-color: rgb(104, 96, 96);
+    text-transform: lowercase;
+    
+}
+
 .container {
     max-width: 960px;
     width: 100%;
